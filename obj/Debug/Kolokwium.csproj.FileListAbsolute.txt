@@ -1,0 +1,13 @@
+C:\Users\local\Desktop\Kolokwium\Kolokwium\bin\Debug\Kolokwium.exe.config
+C:\Users\local\Desktop\Kolokwium\Kolokwium\bin\Debug\Kolokwium.exe
+C:\Users\local\Desktop\Kolokwium\Kolokwium\bin\Debug\Kolokwium.pdb
+C:\Users\local\Desktop\Kolokwium\Kolokwium\obj\Debug\Kolokwium.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Kolokwium\Kolokwium\obj\Debug\MainWindow.baml
+C:\Users\local\Desktop\Kolokwium\Kolokwium\obj\Debug\MainWindow.g.cs
+C:\Users\local\Desktop\Kolokwium\Kolokwium\obj\Debug\App.g.cs
+C:\Users\local\Desktop\Kolokwium\Kolokwium\obj\Debug\Kolokwium_MarkupCompile.cache
+C:\Users\local\Desktop\Kolokwium\Kolokwium\obj\Debug\Kolokwium.g.resources
+C:\Users\local\Desktop\Kolokwium\Kolokwium\obj\Debug\Kolokwium.Properties.Resources.resources
+C:\Users\local\Desktop\Kolokwium\Kolokwium\obj\Debug\Kolokwium.csproj.GenerateResource.Cache
+C:\Users\local\Desktop\Kolokwium\Kolokwium\obj\Debug\Kolokwium.exe
+C:\Users\local\Desktop\Kolokwium\Kolokwium\obj\Debug\Kolokwium.pdb
